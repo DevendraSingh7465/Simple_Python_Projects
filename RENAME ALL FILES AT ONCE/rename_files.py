@@ -1,6 +1,6 @@
 # rename all files at once usign os module
 import os
-import shutil
+
 # path = "E:\demo folder\\"
 path = input("Enter Path : ")
 path = path+"\\"
